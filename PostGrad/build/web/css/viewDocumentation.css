@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 16, 2014, 1:32:00 PM
+    Author     : Peloza
+*/
+#contents body
+{
+   font-family: Arial, Helvetica, sans-serif; 
+}
+#documents
+{
+    width: 1400px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding: 5px;
+}
+
+#documents td
+{
+    width: 250px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5px;
+}
+
+h1
+{
+ font-family: Arial, Helvetica, sans-serif;  
+ padding: 15px;
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#content button
+{
+    border-radius: 25px;
+    border: 1px solid black;
+    color: #000000;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-right: 285px;
+    padding: 10px 20px;
+    //margin-top: 5px;
+}
+
+#content button:hover
+{
+    cursor: pointer;
+}
