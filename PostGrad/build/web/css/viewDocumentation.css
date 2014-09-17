@@ -13,7 +13,7 @@ and open the template in the editor.
 }
 #documents
 {
-    width: 1400px;
+    width: 2550px;
     font-family: Arial, Helvetica, sans-serif;
     
     padding: 5px;
@@ -25,6 +25,11 @@ and open the template in the editor.
     height: 100px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 5px;
+}
+
+#documents th
+{
+    text-align: left;
 }
 
 h1

@@ -15,6 +15,7 @@
         <h1>Staff Portal</h1>
         <div id="content">
             <form id="staffPortal" method="post">
+                <h2>Student Application Details</h2>
                 <table id="documents">
                 <tr class="header">
                     <th>ID</th>
@@ -29,6 +30,7 @@
                     <th>Mark IV</th>
                     <th>Mark V</th>
                     <th>Mark VI</th>
+                    <th>Transcript</th>
                     <th>Motivation</th>
                     <th>Topic</th>
                     <th>Supervisor</th>
@@ -49,6 +51,7 @@
                     <td class="lightBlue">[mark iv]</td>
                     <td class="lightBlue">[mark v]</td>
                     <td class="lightBlue">[mark vi]</td>
+                    <td class="lightBlue">[transcript]</td>
                     <td class="lightBlue">[motivation]</td>
                     <td class="lightBlue">[topic]</td>
                     <td class="lightBlue">[supervisor]</td>

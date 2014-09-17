@@ -45,6 +45,26 @@
                     <th>Country</th>
                     <th>Code</th>
                 </tr>
+                <tr>
+                    <td class="lightBlue">[id]</td>
+                    <td class="lightBlue">[app id]</td>
+                    <td class="lightBlue">[title]</td>
+                    <td class="lightBlue">[first name]</td>
+                    <td class="lightBlue">[middle name]</td>
+                    <td class="lightBlue">[last name]</td>
+                    <td class="lightBlue">[gender]</td>
+                    <td class="lightBlue">[number]</td>
+                    <td class="lightBlue">[cellphone]</td>
+                    <td class="lightBlue">[email]</td>
+                    <td class="lightBlue">[population]</td>
+                    <td class="lightBlue">[dob]</td>
+                    <td class="lightBlue">[id number]</td>
+                    <td class="lightBlue">[address]</td>
+                    <td class="lightBlue">[city]</td>
+                    <td class="lightBlue">[country]</td>
+                    <td class="lightBlue">[code]</td>
+                   
+                </tr>
             </table>
            <button type="logout">Logout</button>
             </form>

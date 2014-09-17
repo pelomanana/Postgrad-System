@@ -35,6 +35,8 @@
             <description>staff portal header settings</description>
             <url-pattern>/viewStudents.jsp</url-pattern>
             <url-pattern>/viewDocumentation.jsp</url-pattern>
+            <url-pattern>/rankDocuments.jsp</url-pattern>
+            <url-pattern>/updateStudentApp.jsp</url-pattern>
             <include-prelude>/WEB-INF/jspf/staffHeader.jspf</include-prelude>
         </jsp-property-group>
     </jsp-config>

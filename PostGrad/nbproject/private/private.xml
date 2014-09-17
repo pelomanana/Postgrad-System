@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/css/viewDocumentation.css</file>
-            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/viewDocumentation.jsp</file>
-            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/css/viewStudents.css</file>
+            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/WEB-INF/jspf/staffHeader.jspf</file>
+            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/css/updateStudentApp.css</file>
+            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/updateStudentApp.jsp</file>
+            <file>file:/Users/Peloza/Documents/2014/CSC3003S/Advanced%20Software%20Engineering/Project/Postgrad%20System/PostGrad/web/WEB-INF/jspf/header.jspf</file>
         </group>
     </open-files>
 </project-private>

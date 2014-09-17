@@ -1,0 +1,13 @@
+SMAP
+rankDocuments_jsp.java
+JSP
+*S JSP
+*F
++ 0 staffHeader.jspf
+WEB-INF/jspf/staffHeader.jspf
++ 1 rankDocuments.jsp
+rankDocuments.jsp
+*L
+1,28:49
+5#1,79:77
+*E

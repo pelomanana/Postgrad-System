@@ -4,32 +4,30 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Sep 16, 2014, 1:32:00 PM
+    Created on : Sep 17, 2014, 3:09:38 PM
     Author     : Peloza
 */
+
+
 #contents body
 {
    font-family: Arial, Helvetica, sans-serif; 
 }
-#documents
+#studentStatus
 {
-    width: 2550px;
+    width: 1700px;
     font-family: Arial, Helvetica, sans-serif;
     
     padding: 5px;
 }
 
-#documents td
+#studentStatus td
 {
-    width: 250px;
+    width: 600px;
     height: 100px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 5px;
-}
-
-#documents th
-{
-    text-align: left;
+    
 }
 
 h1
@@ -61,4 +59,14 @@ h2
 #content button:hover
 {
     cursor: pointer;
+}
+
+#studentStatus select
+{
+    width: 100px;
+}
+
+#studentStatus th
+{
+    text-align: left;
 }

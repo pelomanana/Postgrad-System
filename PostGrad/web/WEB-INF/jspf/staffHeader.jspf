@@ -18,8 +18,8 @@
               <ul>
                 <li><a href="viewStudents.jsp">Student Applications</a></li>
                 <li><a href="viewDocumentation.jsp">Student Documentation</a></li>
-                <li><a href="#">Rank Documentation</a></li>
-                <li><a href="#">Student Application Status</a></li>
+                <li><a href="rankDocuments.jsp">Rank Documentation</a></li>
+                <li><a href="updateStudentApp.jsp">Student Application Status</a></li>
                 <li><a href="#">FAQ Inbox</a></li>
                  </ul> 
         </div>
